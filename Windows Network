@@ -1,1 +1,1 @@
-
+I'll configure the IP addressing. Referring to the diagram, there are two NICs: one for internet access and the other for the internal network. The internet-facing NIC will automatically receive an IP address from the home router, so no configuration is needed for that. However, the internal NIC must be set up manually.
