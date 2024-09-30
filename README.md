@@ -3,6 +3,8 @@
 This guide walks us through setting up a basic home lab running Active Directory (AD) using Oracle VirtualBox with a Windows Server VM. We'll learn how to install and configure AD Domain Services, and manage user accounts via PowerShell commands. This environment allows hands-on practice with AD administration tasks alongside some basic Windows networking.
 
 
+
+
 ![1_iUD-io2JyZK32fES59KqHw](https://github.com/user-attachments/assets/a6bb02f7-5bad-46ee-a6e8-79764a762966)
 
 
